@@ -7,8 +7,8 @@ His PhD topic, under supervision of professor <a href="https://www.kth.se/profil
 
 His research interests include Human-Computer Interaction, humanoid and social agents, affective computing and educational technology.
     </td>
-    <td>
-      <img src="/assets/mypic.jpg" align="right" style="vertical-align: top;" />
+    <td align="right" style="vertical-align: top;">
+      <img src="/assets/mypic.jpg" />
     </td>
   </tr>
  </table>
